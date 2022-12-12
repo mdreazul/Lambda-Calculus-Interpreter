@@ -6,15 +6,15 @@
 
 ## Running the interpreter
 
-### <span>LambdaLexer.py</span>
+#### <span>LambdaLexer.py</span>
 
 - Rules to tokenize the input expression
 
-### <span>LambdaParser.py</span>
+#### <span>LambdaParser.py</span>
 
 - Matches the input expression with the allowed expressions. Checks for syntax errors.
 
-### <span>main.py</span>
+#### <span>main.py</span>
 
 - Takes input from the command line
 - Calculates free variables
